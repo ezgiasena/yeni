@@ -1,0 +1,18 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#img
+*.jpg
+*.png
+
+#videos
+*.mp4
+
+#log
+*.log
+
+password.txt
