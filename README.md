@@ -1,6 +1,6 @@
 # deneme
-## deneme 2
-### deneme üç 
+## deneme 3
+### deneme pull
 
 - nası oluyomus
 
