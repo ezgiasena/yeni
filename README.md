@@ -6,6 +6,7 @@
 
 * bide buna bakim
 
-[gogglegit](hptts://google.com)
+[gogglegit](https://google.com)
 
-:d çok komik :D :D <3  <3
+
+![image](/img/powerpuff.jpg)
